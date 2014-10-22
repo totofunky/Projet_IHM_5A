@@ -1,0 +1,27 @@
+input:required {
+	font-style: underline;
+}
+
+body.modal-open .datepicker {
+	z-index: 1200 !important;
+}
+
+h1 {
+	text-align: center;
+}
+div#header {
+width:100%;
+height:100px;
+text-align:center;
+}
+#titre {
+    float: left;
+}
+/* === SIDEBAR HEADER */
+#sidebar-header {
+    float: right;
+}
+.images_petit {
+width:200px;
+height:100px;
+}
